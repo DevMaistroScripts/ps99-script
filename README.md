@@ -2,7 +2,7 @@
 
 copy this script and paste into injector this is an all in 1
 
-**script: loadstring(game:HttpGet('https://pastebin.com/raw/bMtxm9F3' ,true))()**
+**script: loadstring(game:HttpGet('https://pastebin.com/raw/0g9iQUrt',true))()**
 
 # functionsadded
 
